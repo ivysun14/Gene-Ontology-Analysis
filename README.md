@@ -1,6 +1,6 @@
 # Gene-Ontology-Analysis
 
-This repository contains code in R for a gene ontology analysis workflow, which was completed as a part of a small study expansion of the [PathFX algorithm](https://github.com/jenwilson521/PathFX). The workflow includes:
+This repository contains code in R for a gene ontology analysis workflow, which was completed as part of a small study expansion of the [PathFX algorithm](https://github.com/jenwilson521/PathFX). The original PathFX paper can be accessed [here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006614). The workflow includes:
 
 - With dataframe manipulation, extract target genes from the input csv
 - Conversion of gene symbols to Entrez ID (done with AnnotationDbi package)
